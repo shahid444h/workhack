@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/workhack/static/css/main.c39012e5.css",
+    "main.js": "/workhack/static/js/main.171b85b7.js",
+    "static/js/787.81dc7098.chunk.js": "/workhack/static/js/787.81dc7098.chunk.js",
+    "static/media/logo.svg": "/workhack/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/workhack/index.html",
+    "main.c39012e5.css.map": "/workhack/static/css/main.c39012e5.css.map",
+    "main.171b85b7.js.map": "/workhack/static/js/main.171b85b7.js.map",
+    "787.81dc7098.chunk.js.map": "/workhack/static/js/787.81dc7098.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c39012e5.css",
+    "static/js/main.171b85b7.js"
+  ]
+}
